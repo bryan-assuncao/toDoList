@@ -1,0 +1,14 @@
+c:\Users\bryan\Downloads\toDoList\bin\Debug\net9.0\toDoList.exe
+c:\Users\bryan\Downloads\toDoList\bin\Debug\net9.0\toDoList.deps.json
+c:\Users\bryan\Downloads\toDoList\bin\Debug\net9.0\toDoList.runtimeconfig.json
+c:\Users\bryan\Downloads\toDoList\bin\Debug\net9.0\toDoList.dll
+c:\Users\bryan\Downloads\toDoList\bin\Debug\net9.0\toDoList.pdb
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\toDoList.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\toDoList.AssemblyInfoInputs.cache
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\toDoList.AssemblyInfo.cs
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\toDoList.csproj.CoreCompileInputs.cache
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\toDoList.dll
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\refint\toDoList.dll
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\toDoList.pdb
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\toDoList.genruntimeconfig.cache
+c:\Users\bryan\Downloads\toDoList\obj\Debug\net9.0\ref\toDoList.dll
